@@ -1,0 +1,13 @@
+#welcome-section{
+    height: 100vh;
+}
+
+#navbar{
+    position: fixed;
+}
+
+@media screen {
+    h1{
+        font-size: 15px;
+    }
+}
